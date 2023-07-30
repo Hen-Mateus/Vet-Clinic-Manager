@@ -1,0 +1,255 @@
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Form1.resources
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\nunoa\Desktop\uni\2 ano\1 semestre\POO\PROJETAO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreaCliente.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreaCliente.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária (1)\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\Tecnologias e Design de Multimédia\1º Semestre\POO\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\nunoa\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 24_12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária_26.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\João Nascimento\Downloads\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária_29.12 (2)\Gestor de Clínica Veterinária_29.12\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AdicionarPaciente.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AdicionarPaciente.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Nuno Santos\Desktop\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AdicionarPaciente.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\Gestor de Clínica Veterinária 30_12 manha\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe.config
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\bin\Debug\Gestor de Clínica Veterinária.pdb
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.AssemblyReference.cache
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddAnimal.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddDono.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddInter.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AddVeterinario.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AdicionarPaciente.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVetCuida.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.AreadoVeterinario.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.ClientePerfil.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PacientesVet.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PerfilCliente.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.VETcuida.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.PaginaPrincipal.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor_de_Clínica_Veterinária.Properties.Resources.resources
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.GenerateResource.cache
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.csproj.CoreCompileInputs.cache
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.exe
+C:\Users\Rike7\Desktop\ProjetoPrático_POO_HMateus_JNascimento_NSantos\Gestor de Clínica Veterinária\Gestor de Clínica Veterinária\obj\Debug\Gestor de Clínica Veterinária.pdb
